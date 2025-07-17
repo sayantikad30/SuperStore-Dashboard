@@ -1,5 +1,6 @@
 # SuperStore-Dashboard
 **SuperStore Sales Dashboard**
+
 Description:
 The objective can be broken down into the following detailed components:
 Dashboard Creation: The task involves identifying the KPIs and designing an intuitive and visually appealing dashboard. It should include interactive visualizations and filtering capabilities, enabling users to explore the data at various levels of granularity.
